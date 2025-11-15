@@ -1,0 +1,1 @@
+🔳️⚠️🌐️ The official source repository for the website of the MalNotch project, a tool for adding NSFW/NSFL designs to the portions where you can't see that can get videos/images taken down online. Software activism piece on the problem with hardware notches. Part of the Notchware project.
